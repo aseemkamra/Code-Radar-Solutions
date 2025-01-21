@@ -5,6 +5,6 @@ int main ()
     scanf("%d %d",&a,&b);
     int sum;
     sum = a+b;
-    printf("you entered %d",sum);
+    printf("Sum: %d",sum);
     return 0;
 }
