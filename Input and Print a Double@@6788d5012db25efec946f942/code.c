@@ -4,6 +4,6 @@ int main()
 {
     double a;
     scanf("%lf",&a);
-    printf("%lf",a);
+    printf("%.6lf",a);
     return 0;
 }
