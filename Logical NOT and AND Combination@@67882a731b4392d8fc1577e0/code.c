@@ -8,7 +8,7 @@
     {
         printf("True");
     }
-    if{
+    else{
         printf("False");
     }
     return 0;
