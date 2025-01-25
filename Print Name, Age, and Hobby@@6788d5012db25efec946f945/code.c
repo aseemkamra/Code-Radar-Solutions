@@ -7,7 +7,7 @@ int main() {
 
     // Prompt and read inputs
    
-    scanf("%s", name);
+    scanf("%s",&name);
 
 
     scanf("%d", &age);
