@@ -3,8 +3,7 @@
 int main() {
     int a, b;
 
-    // Taking input for a and b
-    printf("Enter two integers: ");
+   
     scanf("%d %d", &a, &b);
 
     // Check if a and b have opposite signs
