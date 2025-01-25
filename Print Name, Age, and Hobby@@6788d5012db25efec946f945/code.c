@@ -6,13 +6,13 @@ int main() {
     char hobby[50]; // Array to store the hobby
 
     // Prompt and read inputs
-    printf("Enter your name: ");
+   
     scanf("%s", name);
 
-    printf("Enter your age: ");
+
     scanf("%d", &age);
 
-    printf("Enter your hobby: ");
+    
     scanf("%s", hobby);
 
     // Print the results
