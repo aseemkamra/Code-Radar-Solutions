@@ -8,9 +8,9 @@ int main() {
 
    
     if ((a > 0 && b < 0) || (a < 0 && b > 0)) {
-        printf("True\n"); 
+        printf("True"); 
     } else {
-        printf("False\n");
+        printf("False");
     }
 
     return 0;
