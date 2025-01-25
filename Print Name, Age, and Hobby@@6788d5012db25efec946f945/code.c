@@ -5,13 +5,12 @@ int main() {
     int age;       // Variable to store the age
     char hobby[50];
 
-    printf("Enter your name: ");
+   
     scanf("%s", name);
 
-    printf("Enter your age: ");
     scanf("%d", &age);
 
-    printf("Enter your hobby: ");
+    
     scanf("%s", hobby);
 
     // Print the results
