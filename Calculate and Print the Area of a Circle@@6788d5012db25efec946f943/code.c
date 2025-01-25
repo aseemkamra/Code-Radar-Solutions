@@ -6,8 +6,8 @@ int main()
     float pi = 3.14;
     float area;
     area = pi*a*a;
-    scanf("%.2f",&a);
-    printf("Area: %f",area);
+    scanf("%f",&a);
+    printf("Area: %.2f",area);
     return 0;
 
 }
