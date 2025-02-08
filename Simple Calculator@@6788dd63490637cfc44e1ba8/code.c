@@ -15,7 +15,7 @@ int main() {
     } 
     else if (c == '/') {
         if (b == 0)  // Handling division by zero
-            printf("Error");
+            printf("error");
         else
             printf("%d", a / b);
     } 
