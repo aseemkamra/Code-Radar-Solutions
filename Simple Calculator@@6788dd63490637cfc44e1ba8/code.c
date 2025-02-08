@@ -23,7 +23,7 @@ int main() {
         printf("%d", a * b);
     } 
     else {
-        printf("Error");  // Handling invalid operator
+        printf("error");  // Handling invalid operator
     }
 
     return 0;
