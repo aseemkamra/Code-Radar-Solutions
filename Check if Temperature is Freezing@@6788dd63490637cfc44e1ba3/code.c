@@ -10,4 +10,5 @@ int main()
     else{
         printf("Freezing");
     }
+    return 0;
 }
